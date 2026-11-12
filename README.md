@@ -1,8 +1,9 @@
+
 # 📊 Dashboard de Controle de Orçamento Empresarial
 
 Este projeto é um painel interativo desenvolvido no Microsoft Excel para monitorar o orçamento corporativo, permitindo a análise ágil e detalhada das despesas planejadas (orçadas) versus os gastos reais (realizados).
 
-<img width="1366" height="768" alt="Dash" src="https://github.com/user-attachments/assets/825f54bb-302e-4b29-b80f-7c2ef5aa1743" />
+<img width="1366" height="729" alt="Dash" src="https://github.com/user-attachments/assets/0d203d7b-8c46-49bf-b3ec-4bb3f9b82f3c" />
 
 ## 🎯 Objetivo do Projeto
 Fornecer uma visão clara e imediata da saúde financeira da empresa, identificando rapidamente quais departamentos e categorias de despesas estão dentro da meta e quais estouraram o orçamento.
